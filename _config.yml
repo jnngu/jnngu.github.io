@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: James Nguyen
-title: Electrical and Computer Engineering Masters Student at Carnegie Mellon Univeristy
+title: MS in ECE @ Carnegie Mellon Univeristy
 email: jnnguyen[at]andrew.cmu.edu
 website: https://jnngu.github.io/
 
@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a masters student studying [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+  Hello! I am a masters student studying Electrical and Computer Engineering at Carnegie Mellon University.
   My interests are in computer architecture and hardware design. I am a research intern for the [SPIRAL Project](https://spiral.net/), working with Professor [Franz Franchetti](https://www.ece.cmu.edu/directory/bios/franchetti-franz.html). 
   I am currently working on verifying a FFT based accelerator that I taped last spring in TSMC 28.
+  
 
   I also like to play the electric guitar and study Japanese in my free time :^).
 
